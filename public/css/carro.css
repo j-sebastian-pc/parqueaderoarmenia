@@ -1,0 +1,93 @@
+
+.container {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.alert {
+    margin-bottom: 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+.table {
+    width: 100%;
+    margin-top: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.table th, .table td {
+    padding: 12px 15px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table th {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+}
+
+.table tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+.table td a {
+    text-decoration: none;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+.table td a.btn-info {
+    background-color: #17a2b8;
+}
+
+.table td a.btn-warning {
+    background-color: #ffc107;
+}
+
+.table td form button {
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.table td a.btn-info:hover,
+.table td a.btn-warning:hover {
+    opacity: 0.8;
+}
+
+.table td form button.btn-danger {
+    background-color: #dc3545;
+}
+
+.table td form button.btn-danger:hover {
+    background-color: #c82333;
+}
+
+.d-flex {
+    margin-top: 30px;
+}
+
+.d-flex a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    background-color: #28a745;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.d-flex a:hover {
+    background-color: #218838;
+}
