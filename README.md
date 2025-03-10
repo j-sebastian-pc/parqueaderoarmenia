@@ -23,6 +23,7 @@ Composer
 
 **Instrucciones de Instalación**
 - Clonar el repositorio.
+- https://github.com/j-sebastian-pc/parqueaderoarmenia.git
 
 - Ejecutar composer install para instalar las dependencias.
 
